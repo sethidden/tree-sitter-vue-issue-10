@@ -1,6 +1,6 @@
 [submodule "packpath/pack/foo/start/nvim-treesitter"]
 	path = packpath/pack/foo/start/nvim-treesitter
-	url = https://github.com/nvim-treesitter/nvim-treesitter
+	url = https://github.com/3nuc/nvim-treesitter
 [submodule "packpath/pack/foo/start/playground"]
 	path = packpath/pack/foo/start/playground
 	url = https://github.com/nvim-treesitter/playground
