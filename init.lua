@@ -2,7 +2,7 @@ vim.o.packpath = "./packpath"
 vim.cmd('packadd nvim-treesitter')
 vim.cmd('packadd playground')
 require'nvim-treesitter.configs'.setup {
-  ensure_installed = { "vue", "scss", "css"},
+  ensure_installed = { "vue", "scss" },
   highlight = {
     enable = true,
   },
