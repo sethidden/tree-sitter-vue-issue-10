@@ -1,7 +1,7 @@
 [submodule "packpath/pack/foo/start/nvim-treesitter"]
 	path = packpath/pack/foo/start/nvim-treesitter
-	url = https://github.com/stsewd/nvim-treesitter
-  branch = injection-regex
+  url = https://github.com/stsewd/nvim-treesitter
+	branch = injection-regex
 [submodule "packpath/pack/foo/start/playground"]
 	path = packpath/pack/foo/start/playground
 	url = https://github.com/nvim-treesitter/playground
